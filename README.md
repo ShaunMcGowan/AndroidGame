@@ -1,2 +1,2 @@
 # AndroidGame
-CompleteGarvage
+CompleteGarbage
